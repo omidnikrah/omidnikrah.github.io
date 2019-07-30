@@ -1,2 +1,3 @@
-# omidnikrah.github.io
+# Omid Nikrah
+
 My personal website :)
